@@ -1,3 +1,5 @@
+
+
 package com.company;
 
 import java.util.Arrays;
@@ -54,3 +56,4 @@ public class Method_2 {
      }
 
  }
+// time complexity - O(nlogn)
